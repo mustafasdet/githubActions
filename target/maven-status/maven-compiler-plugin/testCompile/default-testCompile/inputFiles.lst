@@ -1,7 +1,7 @@
-/Users/karthikkk/seleniumbasic/SeleniumWithCucucumber/src/test/java/Base/ExtentReportUtil.java
-/Users/karthikkk/seleniumbasic/SeleniumWithCucucumber/src/test/java/Base/BaseUtil.java
-/Users/karthikkk/seleniumbasic/SeleniumWithCucucumber/src/test/java/steps/LoginStep.java
-/Users/karthikkk/seleniumbasic/SeleniumWithCucucumber/src/test/java/pages/LoginPage.java
-/Users/karthikkk/seleniumbasic/SeleniumWithCucucumber/src/test/java/runner/NGTestListener.java
-/Users/karthikkk/seleniumbasic/SeleniumWithCucucumber/src/test/java/runner/TestRunner.java
-/Users/karthikkk/seleniumbasic/SeleniumWithCucucumber/src/test/java/steps/Hook.java
+/Users/tarikazra/IdeaProjects/githubActionsEx/SeleniumWithCucucumber/src/test/java/runner/NGTestListener.java
+/Users/tarikazra/IdeaProjects/githubActionsEx/SeleniumWithCucucumber/src/test/java/runner/TestRunner.java
+/Users/tarikazra/IdeaProjects/githubActionsEx/SeleniumWithCucucumber/src/test/java/Base/BaseUtil.java
+/Users/tarikazra/IdeaProjects/githubActionsEx/SeleniumWithCucucumber/src/test/java/steps/Hook.java
+/Users/tarikazra/IdeaProjects/githubActionsEx/SeleniumWithCucucumber/src/test/java/Base/ExtentReportUtil.java
+/Users/tarikazra/IdeaProjects/githubActionsEx/SeleniumWithCucucumber/src/test/java/steps/LoginStep.java
+/Users/tarikazra/IdeaProjects/githubActionsEx/SeleniumWithCucucumber/src/test/java/pages/LoginPage.java
